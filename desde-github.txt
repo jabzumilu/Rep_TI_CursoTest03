@@ -1,2 +1,6 @@
 Hola, este archivo se creo desde github
+<<<<<<< HEAD
 desde local :D
+=======
+Desde github
+>>>>>>> 769ddb8af0eee695b1b4a0f95e804c5cbc830aef
